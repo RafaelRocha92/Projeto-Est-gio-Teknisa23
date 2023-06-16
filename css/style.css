@@ -1,0 +1,27 @@
+.container {
+    text-align: center;
+}
+
+.header {
+    font-family: cursive;
+    font-size: 12px;
+}
+
+.body input {
+    padding: 8px;
+    margin-right: 8px;
+    border-color: gray;
+    font-family: cursive;
+}
+
+.body button {
+    padding: 8px 8px;
+    font-family: cursive;
+    border-color: gray;
+}
+
+.footer {
+    margin-top: 16px;
+    font-size: 16px;
+    font-family: cursive;
+}
